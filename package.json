@@ -1,11 +1,12 @@
 {
   "name": "my-hello-world-app",
   "version": "1.0.0",
-  "description": "Простое приложение 'Привет, мир!' для Railway",
+  "description": "Простое приложение 'Привет, мир!' для Render",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "keywords": [],
   "author": "",
+
   "license": "ISC"
